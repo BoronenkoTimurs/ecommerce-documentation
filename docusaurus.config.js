@@ -11,7 +11,7 @@ const config = {
   title: 'Documentation',
   tagline: 'Welcome to documentation and rules storage',
   favicon: 'img/favicon.ico',
-  url: 'https://your-docusaurus-site.example.com', // Set the production url of your site here
+  url: 'https://docusaurus-2.netlify.app', // Set the production url of your site here
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
