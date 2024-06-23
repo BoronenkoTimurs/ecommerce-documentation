@@ -60,7 +60,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/rules', label: 'Rules', position: 'left'},
+          {to: '/code_rules', label: 'Code Rules', position: 'left'},
         ],
       },
       footer: {
