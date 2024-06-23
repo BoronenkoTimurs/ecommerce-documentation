@@ -61,6 +61,7 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/code_rules', label: 'Code Rules', position: 'left'},
+          {to: '/github_rules', label: 'GitHub Rules', position: 'left'},
         ],
       },
       footer: {
